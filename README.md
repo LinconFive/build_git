@@ -1,4 +1,4 @@
-# BUILD_GIT
+# leanr-mermaid
 > ## Getting started
 > Just edit this README.md and make it your own.
 > ## Add your files
